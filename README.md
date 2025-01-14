@@ -7,7 +7,7 @@
 
 ### How to Reach Me
 - 📫 **Email:** thanhtung2962004@gmail.com  
-- 💼 **LinkedIn:** [www.linkedin.com/in/tung-nguyen-14b157335](www.linkedin.com/in/tung-nguyen-14b157335)   
+- 💼 **LinkedIn:** [www.linkedin.com/in/tung-nguyen-14b157335](https://www.linkedin.com/in/tung-nguyen-14b157335) 
 
 ### Fun Facts
 - 😄 Pronouns: He/Him  
