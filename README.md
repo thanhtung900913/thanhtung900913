@@ -23,14 +23,6 @@ My main interests are **backend engineering, distributed systems, databases, and
 - Kafka, Debezium, Flink
 - Airflow, dbt
 
-**Cloud & Infrastructure**
-- Docker, Docker Compose
-- Kubernetes, K3s
-- Helm, ArgoCD
-- Terraform
-- GitHub Actions
-- CI/CD
-
 ### 🚀 What I Like Building
 
 - Scalable backend APIs and services
