@@ -10,4 +10,4 @@ Building reliable APIs, event-driven services, and real-time data pipelines.
 
 🤝 Open to collaborating on backend, distributed systems, and developer tools.
 
-📫 [Email](mailto:thanhtung2962004@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tung-nguyen-14b157335)
+📫 [Email](mailto:ntung4990@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tung-nguyen-14b157335)
