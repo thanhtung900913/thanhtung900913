@@ -5,7 +5,7 @@ Building reliable APIs, event-driven services, and real-time data pipelines.
 
 - **Languages:** Python · Java · SQL · JavaScript
 - **Backend:** Spring Boot · FastAPI · Django · Flask
-- **Databases:** PostgreSQL · MySQL · MongoDB · ClickHouse · Redis
+- **Databases:** PostgreSQL · MySQL · MongoDB · DynamoDB · ClickHouse · Redis
 - **Data:** Kafka · Debezium · Flink · Airflow · dbt
 
 🤝 Open to collaborating on backend, distributed systems, and developer tools.
